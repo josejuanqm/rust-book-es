@@ -1,7 +1,7 @@
 ---
-name: New translation
-about: Let us know of a new language translation you're working on
+name: Nueva Traducción
+about: Dejanos saber de una nueva traducción en la que estés trabajando
 ---
 
-Language your translation is for:
-URL to the repo where you're working:
+Idioma en que esta la traducción:
+URL del repositorio donde se esta trabajando:

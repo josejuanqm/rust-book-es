@@ -1,17 +1,17 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Reporte de defecto
+about: Crea un reporte para ayudarnos a mejorar
 ---
 
-- I have searched open and closed issues and pull requests for duplicates, using these search terms:
+- He investigado 'pull requests', tanto abiertos como cerados, para buscar duplicados sin ningún resultado usando los siguientes términos:
   -
   -
   -
-- I have checked the latest `main` branch to see if this has already been fixed, in this file:
+- He probado la ultima version de la rama `main` para asegurarme si los defectos han sido resueltos en este archivo:
   -
 
-URL to the section(s) of the book with this problem:
+URL de la sección (o secciones) del libro con este problema:
 
-Description of the problem:
+Descripción del problema:
 
-Suggested fix:
+Fix sugerido:
