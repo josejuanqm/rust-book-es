@@ -1,10 +1,9 @@
 # Appendix
 
-The second edition of the book is no longer distributed with Rust's documentation.
+La segunda edición del libro, actualmente no esta distribuida con la documentación de Rust.
 
-If you came here via a link or web search, you may want to check out [the current
-version of the book](../appendix-00.html) instead.
+Si llegaste aqui via un link, o una busqueda en la web, quizás quisieras ver [la version actual del libro](../appendix-00.html).
 
-If you have an internet connection, you can [find a copy distributed with
+Si tienes una conexión a internet, puedes [encontrar una copy distribuida con
 Rust
 1.30](https://doc.rust-lang.org/1.30.0/book/second-edition/appendix-00.html).
